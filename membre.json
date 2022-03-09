@@ -24062,7 +24062,2141 @@
 
         ],
         "L":[
+            {
+                "prenom":       "L'anglophone inconnu 1",
+            "nom":              "",
+            "surnom":[
+                "",
+                ""
+                ],
+            "genre":            "",
+            "pronom":[
+                                "",
+                                ""
+            ],
+            "age":              "",
+            "ageHum":           "Inapplicable",
+            "anniversaire":[
+                {
+                    "mois":     "",
+                    "jour":     ""
+                }
 
+            ],
+            "espece":           "Humain",
+            "orientation":      "",
+            "polyOuMono":       "Mono",
+            "status":           "Célibataire",
+            "couleurP":         "",
+            "expression":       "",
+            "aime":[
+                                "",
+                                ""
+            ],
+            "aimePas":[
+                                "",
+                                ""
+            ],
+            "caractere":[
+                                "",
+                                "",
+                                ""
+
+            ],
+            "ecrit":            "Oui",
+            "verbal":           "Oui",
+            "langue":[
+                                "Français",
+                                "Anglais"
+
+            ],
+            "magie":            "Non",
+            "typeM":            "Inapplicable",
+            "postoris":         "Inapplicable",
+            "vol":              "Non",
+            "typeV":            "Inapplicable",
+            "pierre":           "Aucune",
+            "particularite":    "Non",
+            "handicap":         "Aucun",
+            "disponible":       "Oui",
+            "question":         "Oui",
+            "calEtTouch":       "Oui",
+            "demandeSurnom":    "Oui"
+            },
+            {
+                "prenom":       "L'Organisatrice",
+            "nom":              "",
+            "surnom":[
+                "",
+                ""
+                ],
+            "genre":            "",
+            "pronom":[
+                                "",
+                                ""
+            ],
+            "age":              "",
+            "ageHum":           "Inapplicable",
+            "anniversaire":[
+                {
+                    "mois":     "",
+                    "jour":     ""
+                }
+
+            ],
+            "espece":           "Humain",
+            "orientation":      "",
+            "polyOuMono":       "Mono",
+            "status":           "Célibataire",
+            "couleurP":         "",
+            "expression":       "",
+            "aime":[
+                                "",
+                                ""
+            ],
+            "aimePas":[
+                                "",
+                                ""
+            ],
+            "caractere":[
+                                "",
+                                "",
+                                ""
+
+            ],
+            "ecrit":            "Oui",
+            "verbal":           "Oui",
+            "langue":[
+                                "Français",
+                                "Anglais"
+
+            ],
+            "magie":            "Non",
+            "typeM":            "Inapplicable",
+            "postoris":         "Inapplicable",
+            "vol":              "Non",
+            "typeV":            "Inapplicable",
+            "pierre":           "Aucune",
+            "particularite":    "Non",
+            "handicap":         "Aucun",
+            "disponible":       "Oui",
+            "question":         "Oui",
+            "calEtTouch":       "Oui",
+            "demandeSurnom":    "Oui"
+            },
+            {
+                "prenom":       "La Dame Qui Pleure",
+            "nom":              "",
+            "surnom":[
+                "",
+                ""
+                ],
+            "genre":            "",
+            "pronom":[
+                                "",
+                                ""
+            ],
+            "age":              "",
+            "ageHum":           "Inapplicable",
+            "anniversaire":[
+                {
+                    "mois":     "",
+                    "jour":     ""
+                }
+
+            ],
+            "espece":           "Humain",
+            "orientation":      "",
+            "polyOuMono":       "Mono",
+            "status":           "Célibataire",
+            "couleurP":         "",
+            "expression":       "",
+            "aime":[
+                                "",
+                                ""
+            ],
+            "aimePas":[
+                                "",
+                                ""
+            ],
+            "caractere":[
+                                "",
+                                "",
+                                ""
+
+            ],
+            "ecrit":            "Oui",
+            "verbal":           "Oui",
+            "langue":[
+                                "Français",
+                                "Anglais"
+
+            ],
+            "magie":            "Non",
+            "typeM":            "Inapplicable",
+            "postoris":         "Inapplicable",
+            "vol":              "Non",
+            "typeV":            "Inapplicable",
+            "pierre":           "Aucune",
+            "particularite":    "Non",
+            "handicap":         "Aucun",
+            "disponible":       "Oui",
+            "question":         "Oui",
+            "calEtTouch":       "Oui",
+            "demandeSurnom":    "Oui"
+            },
+            {
+                "prenom":       "Lagertha",
+            "nom":              "",
+            "surnom":[
+                "",
+                ""
+                ],
+            "genre":            "",
+            "pronom":[
+                                "",
+                                ""
+            ],
+            "age":              "",
+            "ageHum":           "Inapplicable",
+            "anniversaire":[
+                {
+                    "mois":     "",
+                    "jour":     ""
+                }
+
+            ],
+            "espece":           "Humain",
+            "orientation":      "",
+            "polyOuMono":       "Mono",
+            "status":           "Célibataire",
+            "couleurP":         "",
+            "expression":       "",
+            "aime":[
+                                "",
+                                ""
+            ],
+            "aimePas":[
+                                "",
+                                ""
+            ],
+            "caractere":[
+                                "",
+                                "",
+                                ""
+
+            ],
+            "ecrit":            "Oui",
+            "verbal":           "Oui",
+            "langue":[
+                                "Français",
+                                "Anglais"
+
+            ],
+            "magie":            "Non",
+            "typeM":            "Inapplicable",
+            "postoris":         "Inapplicable",
+            "vol":              "Non",
+            "typeV":            "Inapplicable",
+            "pierre":           "Aucune",
+            "particularite":    "Non",
+            "handicap":         "Aucun",
+            "disponible":       "Oui",
+            "question":         "Oui",
+            "calEtTouch":       "Oui",
+            "demandeSurnom":    "Oui"
+            },
+            {
+                "prenom":       "Laokrafia",
+            "nom":              "",
+            "surnom":[
+                "",
+                ""
+                ],
+            "genre":            "",
+            "pronom":[
+                                "",
+                                ""
+            ],
+            "age":              "",
+            "ageHum":           "Inapplicable",
+            "anniversaire":[
+                {
+                    "mois":     "",
+                    "jour":     ""
+                }
+
+            ],
+            "espece":           "Humain",
+            "orientation":      "",
+            "polyOuMono":       "Mono",
+            "status":           "Célibataire",
+            "couleurP":         "",
+            "expression":       "",
+            "aime":[
+                                "",
+                                ""
+            ],
+            "aimePas":[
+                                "",
+                                ""
+            ],
+            "caractere":[
+                                "",
+                                "",
+                                ""
+
+            ],
+            "ecrit":            "Oui",
+            "verbal":           "Oui",
+            "langue":[
+                                "Français",
+                                "Anglais"
+
+            ],
+            "magie":            "Non",
+            "typeM":            "Inapplicable",
+            "postoris":         "Inapplicable",
+            "vol":              "Non",
+            "typeV":            "Inapplicable",
+            "pierre":           "Aucune",
+            "particularite":    "Non",
+            "handicap":         "Aucun",
+            "disponible":       "Oui",
+            "question":         "Oui",
+            "calEtTouch":       "Oui",
+            "demandeSurnom":    "Oui"
+            },
+            {
+                "prenom":       "Laurien",
+            "nom":              "",
+            "surnom":[
+                "",
+                ""
+                ],
+            "genre":            "",
+            "pronom":[
+                                "",
+                                ""
+            ],
+            "age":              "",
+            "ageHum":           "Inapplicable",
+            "anniversaire":[
+                {
+                    "mois":     "",
+                    "jour":     ""
+                }
+
+            ],
+            "espece":           "Humain",
+            "orientation":      "",
+            "polyOuMono":       "Mono",
+            "status":           "Célibataire",
+            "couleurP":         "",
+            "expression":       "",
+            "aime":[
+                                "",
+                                ""
+            ],
+            "aimePas":[
+                                "",
+                                ""
+            ],
+            "caractere":[
+                                "",
+                                "",
+                                ""
+
+            ],
+            "ecrit":            "Oui",
+            "verbal":           "Oui",
+            "langue":[
+                                "Français",
+                                "Anglais"
+
+            ],
+            "magie":            "Non",
+            "typeM":            "Inapplicable",
+            "postoris":         "Inapplicable",
+            "vol":              "Non",
+            "typeV":            "Inapplicable",
+            "pierre":           "Aucune",
+            "particularite":    "Non",
+            "handicap":         "Aucun",
+            "disponible":       "Oui",
+            "question":         "Oui",
+            "calEtTouch":       "Oui",
+            "demandeSurnom":    "Oui"
+            },
+            {
+                "prenom":       "Laurine",
+            "nom":              "",
+            "surnom":[
+                "",
+                ""
+                ],
+            "genre":            "",
+            "pronom":[
+                                "",
+                                ""
+            ],
+            "age":              "",
+            "ageHum":           "Inapplicable",
+            "anniversaire":[
+                {
+                    "mois":     "",
+                    "jour":     ""
+                }
+
+            ],
+            "espece":           "Humain",
+            "orientation":      "",
+            "polyOuMono":       "Mono",
+            "status":           "Célibataire",
+            "couleurP":         "",
+            "expression":       "",
+            "aime":[
+                                "",
+                                ""
+            ],
+            "aimePas":[
+                                "",
+                                ""
+            ],
+            "caractere":[
+                                "",
+                                "",
+                                ""
+
+            ],
+            "ecrit":            "Oui",
+            "verbal":           "Oui",
+            "langue":[
+                                "Français",
+                                "Anglais"
+
+            ],
+            "magie":            "Non",
+            "typeM":            "Inapplicable",
+            "postoris":         "Inapplicable",
+            "vol":              "Non",
+            "typeV":            "Inapplicable",
+            "pierre":           "Aucune",
+            "particularite":    "Non",
+            "handicap":         "Aucun",
+            "disponible":       "Oui",
+            "question":         "Oui",
+            "calEtTouch":       "Oui",
+            "demandeSurnom":    "Oui"
+            },
+            {
+                "prenom":       "Laurélise",
+            "nom":              "",
+            "surnom":[
+                "",
+                ""
+                ],
+            "genre":            "",
+            "pronom":[
+                                "",
+                                ""
+            ],
+            "age":              "",
+            "ageHum":           "Inapplicable",
+            "anniversaire":[
+                {
+                    "mois":     "",
+                    "jour":     ""
+                }
+
+            ],
+            "espece":           "Humain",
+            "orientation":      "",
+            "polyOuMono":       "Mono",
+            "status":           "Célibataire",
+            "couleurP":         "",
+            "expression":       "",
+            "aime":[
+                                "",
+                                ""
+            ],
+            "aimePas":[
+                                "",
+                                ""
+            ],
+            "caractere":[
+                                "",
+                                "",
+                                ""
+
+            ],
+            "ecrit":            "Oui",
+            "verbal":           "Oui",
+            "langue":[
+                                "Français",
+                                "Anglais"
+
+            ],
+            "magie":            "Non",
+            "typeM":            "Inapplicable",
+            "postoris":         "Inapplicable",
+            "vol":              "Non",
+            "typeV":            "Inapplicable",
+            "pierre":           "Aucune",
+            "particularite":    "Non",
+            "handicap":         "Aucun",
+            "disponible":       "Oui",
+            "question":         "Oui",
+            "calEtTouch":       "Oui",
+            "demandeSurnom":    "Oui"
+            },
+            {
+                "prenom":       "Lazare",
+            "nom":              "",
+            "surnom":[
+                "",
+                ""
+                ],
+            "genre":            "",
+            "pronom":[
+                                "",
+                                ""
+            ],
+            "age":              "",
+            "ageHum":           "Inapplicable",
+            "anniversaire":[
+                {
+                    "mois":     "",
+                    "jour":     ""
+                }
+
+            ],
+            "espece":           "Humain",
+            "orientation":      "",
+            "polyOuMono":       "Mono",
+            "status":           "Célibataire",
+            "couleurP":         "",
+            "expression":       "",
+            "aime":[
+                                "",
+                                ""
+            ],
+            "aimePas":[
+                                "",
+                                ""
+            ],
+            "caractere":[
+                                "",
+                                "",
+                                ""
+
+            ],
+            "ecrit":            "Oui",
+            "verbal":           "Oui",
+            "langue":[
+                                "Français",
+                                "Anglais"
+
+            ],
+            "magie":            "Non",
+            "typeM":            "Inapplicable",
+            "postoris":         "Inapplicable",
+            "vol":              "Non",
+            "typeV":            "Inapplicable",
+            "pierre":           "Aucune",
+            "particularite":    "Non",
+            "handicap":         "Aucun",
+            "disponible":       "Oui",
+            "question":         "Oui",
+            "calEtTouch":       "Oui",
+            "demandeSurnom":    "Oui"
+            },
+            {
+                "prenom":       "Le linguiste",
+            "nom":              "",
+            "surnom":[
+                "",
+                ""
+                ],
+            "genre":            "",
+            "pronom":[
+                                "",
+                                ""
+            ],
+            "age":              "",
+            "ageHum":           "Inapplicable",
+            "anniversaire":[
+                {
+                    "mois":     "",
+                    "jour":     ""
+                }
+
+            ],
+            "espece":           "Humain",
+            "orientation":      "",
+            "polyOuMono":       "Mono",
+            "status":           "Célibataire",
+            "couleurP":         "",
+            "expression":       "",
+            "aime":[
+                                "",
+                                ""
+            ],
+            "aimePas":[
+                                "",
+                                ""
+            ],
+            "caractere":[
+                                "",
+                                "",
+                                ""
+
+            ],
+            "ecrit":            "Oui",
+            "verbal":           "Oui",
+            "langue":[
+                                "Français",
+                                "Anglais"
+
+            ],
+            "magie":            "Non",
+            "typeM":            "Inapplicable",
+            "postoris":         "Inapplicable",
+            "vol":              "Non",
+            "typeV":            "Inapplicable",
+            "pierre":           "Aucune",
+            "particularite":    "Non",
+            "handicap":         "Aucun",
+            "disponible":       "Oui",
+            "question":         "Oui",
+            "calEtTouch":       "Oui",
+            "demandeSurnom":    "Oui"
+            },
+            {
+                "prenom":       "Levi",
+            "nom":              "",
+            "surnom":[
+                "",
+                ""
+                ],
+            "genre":            "",
+            "pronom":[
+                                "",
+                                ""
+            ],
+            "age":              "",
+            "ageHum":           "Inapplicable",
+            "anniversaire":[
+                {
+                    "mois":     "",
+                    "jour":     ""
+                }
+
+            ],
+            "espece":           "Humain",
+            "orientation":      "",
+            "polyOuMono":       "Mono",
+            "status":           "Célibataire",
+            "couleurP":         "",
+            "expression":       "",
+            "aime":[
+                                "",
+                                ""
+            ],
+            "aimePas":[
+                                "",
+                                ""
+            ],
+            "caractere":[
+                                "",
+                                "",
+                                ""
+
+            ],
+            "ecrit":            "Oui",
+            "verbal":           "Oui",
+            "langue":[
+                                "Français",
+                                "Anglais"
+
+            ],
+            "magie":            "Non",
+            "typeM":            "Inapplicable",
+            "postoris":         "Inapplicable",
+            "vol":              "Non",
+            "typeV":            "Inapplicable",
+            "pierre":           "Aucune",
+            "particularite":    "Non",
+            "handicap":         "Aucun",
+            "disponible":       "Oui",
+            "question":         "Oui",
+            "calEtTouch":       "Oui",
+            "demandeSurnom":    "Oui"
+            },
+            {
+                "prenom":       "Lily",
+            "nom":              "",
+            "surnom":[
+                "",
+                ""
+                ],
+            "genre":            "",
+            "pronom":[
+                                "",
+                                ""
+            ],
+            "age":              "",
+            "ageHum":           "Inapplicable",
+            "anniversaire":[
+                {
+                    "mois":     "",
+                    "jour":     ""
+                }
+
+            ],
+            "espece":           "Humain",
+            "orientation":      "",
+            "polyOuMono":       "Mono",
+            "status":           "Célibataire",
+            "couleurP":         "",
+            "expression":       "",
+            "aime":[
+                                "",
+                                ""
+            ],
+            "aimePas":[
+                                "",
+                                ""
+            ],
+            "caractere":[
+                                "",
+                                "",
+                                ""
+
+            ],
+            "ecrit":            "Oui",
+            "verbal":           "Oui",
+            "langue":[
+                                "Français",
+                                "Anglais"
+
+            ],
+            "magie":            "Non",
+            "typeM":            "Inapplicable",
+            "postoris":         "Inapplicable",
+            "vol":              "Non",
+            "typeV":            "Inapplicable",
+            "pierre":           "Aucune",
+            "particularite":    "Non",
+            "handicap":         "Aucun",
+            "disponible":       "Oui",
+            "question":         "Oui",
+            "calEtTouch":       "Oui",
+            "demandeSurnom":    "Oui"
+            },
+            {
+                "prenom":       "Lion",
+            "nom":              "",
+            "surnom":[
+                "",
+                ""
+                ],
+            "genre":            "",
+            "pronom":[
+                                "",
+                                ""
+            ],
+            "age":              "",
+            "ageHum":           "Inapplicable",
+            "anniversaire":[
+                {
+                    "mois":     "",
+                    "jour":     ""
+                }
+
+            ],
+            "espece":           "Humain",
+            "orientation":      "",
+            "polyOuMono":       "Mono",
+            "status":           "Célibataire",
+            "couleurP":         "",
+            "expression":       "",
+            "aime":[
+                                "",
+                                ""
+            ],
+            "aimePas":[
+                                "",
+                                ""
+            ],
+            "caractere":[
+                                "",
+                                "",
+                                ""
+
+            ],
+            "ecrit":            "Oui",
+            "verbal":           "Oui",
+            "langue":[
+                                "Français",
+                                "Anglais"
+
+            ],
+            "magie":            "Non",
+            "typeM":            "Inapplicable",
+            "postoris":         "Inapplicable",
+            "vol":              "Non",
+            "typeV":            "Inapplicable",
+            "pierre":           "Aucune",
+            "particularite":    "Non",
+            "handicap":         "Aucun",
+            "disponible":       "Oui",
+            "question":         "Oui",
+            "calEtTouch":       "Oui",
+            "demandeSurnom":    "Oui"
+            },
+            {
+                "prenom":       "Lisette",
+            "nom":              "",
+            "surnom":[
+                "",
+                ""
+                ],
+            "genre":            "",
+            "pronom":[
+                                "",
+                                ""
+            ],
+            "age":              "",
+            "ageHum":           "Inapplicable",
+            "anniversaire":[
+                {
+                    "mois":     "",
+                    "jour":     ""
+                }
+
+            ],
+            "espece":           "Humain",
+            "orientation":      "",
+            "polyOuMono":       "Mono",
+            "status":           "Célibataire",
+            "couleurP":         "",
+            "expression":       "",
+            "aime":[
+                                "",
+                                ""
+            ],
+            "aimePas":[
+                                "",
+                                ""
+            ],
+            "caractere":[
+                                "",
+                                "",
+                                ""
+
+            ],
+            "ecrit":            "Oui",
+            "verbal":           "Oui",
+            "langue":[
+                                "Français",
+                                "Anglais"
+
+            ],
+            "magie":            "Non",
+            "typeM":            "Inapplicable",
+            "postoris":         "Inapplicable",
+            "vol":              "Non",
+            "typeV":            "Inapplicable",
+            "pierre":           "Aucune",
+            "particularite":    "Non",
+            "handicap":         "Aucun",
+            "disponible":       "Oui",
+            "question":         "Oui",
+            "calEtTouch":       "Oui",
+            "demandeSurnom":    "Oui"
+            },
+            {
+                "prenom":       "Lofti",
+            "nom":              "",
+            "surnom":[
+                "",
+                ""
+                ],
+            "genre":            "",
+            "pronom":[
+                                "",
+                                ""
+            ],
+            "age":              "",
+            "ageHum":           "Inapplicable",
+            "anniversaire":[
+                {
+                    "mois":     "",
+                    "jour":     ""
+                }
+
+            ],
+            "espece":           "Humain",
+            "orientation":      "",
+            "polyOuMono":       "Mono",
+            "status":           "Célibataire",
+            "couleurP":         "",
+            "expression":       "",
+            "aime":[
+                                "",
+                                ""
+            ],
+            "aimePas":[
+                                "",
+                                ""
+            ],
+            "caractere":[
+                                "",
+                                "",
+                                ""
+
+            ],
+            "ecrit":            "Oui",
+            "verbal":           "Oui",
+            "langue":[
+                                "Français",
+                                "Anglais"
+
+            ],
+            "magie":            "Non",
+            "typeM":            "Inapplicable",
+            "postoris":         "Inapplicable",
+            "vol":              "Non",
+            "typeV":            "Inapplicable",
+            "pierre":           "Aucune",
+            "particularite":    "Non",
+            "handicap":         "Aucun",
+            "disponible":       "Oui",
+            "question":         "Oui",
+            "calEtTouch":       "Oui",
+            "demandeSurnom":    "Oui"
+            },
+            {
+                "prenom":       "Logiciel",
+            "nom":              "",
+            "surnom":[
+                "",
+                ""
+                ],
+            "genre":            "",
+            "pronom":[
+                                "",
+                                ""
+            ],
+            "age":              "",
+            "ageHum":           "Inapplicable",
+            "anniversaire":[
+                {
+                    "mois":     "",
+                    "jour":     ""
+                }
+
+            ],
+            "espece":           "Humain",
+            "orientation":      "",
+            "polyOuMono":       "Mono",
+            "status":           "Célibataire",
+            "couleurP":         "",
+            "expression":       "",
+            "aime":[
+                                "",
+                                ""
+            ],
+            "aimePas":[
+                                "",
+                                ""
+            ],
+            "caractere":[
+                                "",
+                                "",
+                                ""
+
+            ],
+            "ecrit":            "Oui",
+            "verbal":           "Oui",
+            "langue":[
+                                "Français",
+                                "Anglais"
+
+            ],
+            "magie":            "Non",
+            "typeM":            "Inapplicable",
+            "postoris":         "Inapplicable",
+            "vol":              "Non",
+            "typeV":            "Inapplicable",
+            "pierre":           "Aucune",
+            "particularite":    "Non",
+            "handicap":         "Aucun",
+            "disponible":       "Oui",
+            "question":         "Oui",
+            "calEtTouch":       "Oui",
+            "demandeSurnom":    "Oui"
+            },
+            {
+                "prenom":       "Lorafina",
+            "nom":              "",
+            "surnom":[
+                "",
+                ""
+                ],
+            "genre":            "",
+            "pronom":[
+                                "",
+                                ""
+            ],
+            "age":              "",
+            "ageHum":           "Inapplicable",
+            "anniversaire":[
+                {
+                    "mois":     "",
+                    "jour":     ""
+                }
+
+            ],
+            "espece":           "Humain",
+            "orientation":      "",
+            "polyOuMono":       "Mono",
+            "status":           "Célibataire",
+            "couleurP":         "",
+            "expression":       "",
+            "aime":[
+                                "",
+                                ""
+            ],
+            "aimePas":[
+                                "",
+                                ""
+            ],
+            "caractere":[
+                                "",
+                                "",
+                                ""
+
+            ],
+            "ecrit":            "Oui",
+            "verbal":           "Oui",
+            "langue":[
+                                "Français",
+                                "Anglais"
+
+            ],
+            "magie":            "Non",
+            "typeM":            "Inapplicable",
+            "postoris":         "Inapplicable",
+            "vol":              "Non",
+            "typeV":            "Inapplicable",
+            "pierre":           "Aucune",
+            "particularite":    "Non",
+            "handicap":         "Aucun",
+            "disponible":       "Oui",
+            "question":         "Oui",
+            "calEtTouch":       "Oui",
+            "demandeSurnom":    "Oui"
+            },
+            {
+                "prenom":       "Laurencelle",
+            "nom":              "",
+            "surnom":[
+                "",
+                ""
+                ],
+            "genre":            "",
+            "pronom":[
+                                "",
+                                ""
+            ],
+            "age":              "",
+            "ageHum":           "Inapplicable",
+            "anniversaire":[
+                {
+                    "mois":     "",
+                    "jour":     ""
+                }
+
+            ],
+            "espece":           "Humain",
+            "orientation":      "",
+            "polyOuMono":       "Mono",
+            "status":           "Célibataire",
+            "couleurP":         "",
+            "expression":       "",
+            "aime":[
+                                "",
+                                ""
+            ],
+            "aimePas":[
+                                "",
+                                ""
+            ],
+            "caractere":[
+                                "",
+                                "",
+                                ""
+
+            ],
+            "ecrit":            "Oui",
+            "verbal":           "Oui",
+            "langue":[
+                                "Français",
+                                "Anglais"
+
+            ],
+            "magie":            "Non",
+            "typeM":            "Inapplicable",
+            "postoris":         "Inapplicable",
+            "vol":              "Non",
+            "typeV":            "Inapplicable",
+            "pierre":           "Aucune",
+            "particularite":    "Non",
+            "handicap":         "Aucun",
+            "disponible":       "Oui",
+            "question":         "Oui",
+            "calEtTouch":       "Oui",
+            "demandeSurnom":    "Oui"
+            },
+            {
+                "prenom":       "Lotus",
+            "nom":              "",
+            "surnom":[
+                "",
+                ""
+                ],
+            "genre":            "",
+            "pronom":[
+                                "",
+                                ""
+            ],
+            "age":              "",
+            "ageHum":           "Inapplicable",
+            "anniversaire":[
+                {
+                    "mois":     "",
+                    "jour":     ""
+                }
+
+            ],
+            "espece":           "Humain",
+            "orientation":      "",
+            "polyOuMono":       "Mono",
+            "status":           "Célibataire",
+            "couleurP":         "",
+            "expression":       "",
+            "aime":[
+                                "",
+                                ""
+            ],
+            "aimePas":[
+                                "",
+                                ""
+            ],
+            "caractere":[
+                                "",
+                                "",
+                                ""
+
+            ],
+            "ecrit":            "Oui",
+            "verbal":           "Oui",
+            "langue":[
+                                "Français",
+                                "Anglais"
+
+            ],
+            "magie":            "Non",
+            "typeM":            "Inapplicable",
+            "postoris":         "Inapplicable",
+            "vol":              "Non",
+            "typeV":            "Inapplicable",
+            "pierre":           "Aucune",
+            "particularite":    "Non",
+            "handicap":         "Aucun",
+            "disponible":       "Oui",
+            "question":         "Oui",
+            "calEtTouch":       "Oui",
+            "demandeSurnom":    "Oui"
+            },
+            {
+                "prenom":       "Lou",
+            "nom":              "",
+            "surnom":[
+                "",
+                ""
+                ],
+            "genre":            "",
+            "pronom":[
+                                "",
+                                ""
+            ],
+            "age":              "",
+            "ageHum":           "Inapplicable",
+            "anniversaire":[
+                {
+                    "mois":     "",
+                    "jour":     ""
+                }
+
+            ],
+            "espece":           "Humain",
+            "orientation":      "",
+            "polyOuMono":       "Mono",
+            "status":           "Célibataire",
+            "couleurP":         "",
+            "expression":       "",
+            "aime":[
+                                "",
+                                ""
+            ],
+            "aimePas":[
+                                "",
+                                ""
+            ],
+            "caractere":[
+                                "",
+                                "",
+                                ""
+
+            ],
+            "ecrit":            "Oui",
+            "verbal":           "Oui",
+            "langue":[
+                                "Français",
+                                "Anglais"
+
+            ],
+            "magie":            "Non",
+            "typeM":            "Inapplicable",
+            "postoris":         "Inapplicable",
+            "vol":              "Non",
+            "typeV":            "Inapplicable",
+            "pierre":           "Aucune",
+            "particularite":    "Non",
+            "handicap":         "Aucun",
+            "disponible":       "Oui",
+            "question":         "Oui",
+            "calEtTouch":       "Oui",
+            "demandeSurnom":    "Oui"
+            },
+            {
+                "prenom":       "Lou-Anne",
+            "nom":              "",
+            "surnom":[
+                "",
+                ""
+                ],
+            "genre":            "",
+            "pronom":[
+                                "",
+                                ""
+            ],
+            "age":              "",
+            "ageHum":           "Inapplicable",
+            "anniversaire":[
+                {
+                    "mois":     "",
+                    "jour":     ""
+                }
+
+            ],
+            "espece":           "Humain",
+            "orientation":      "",
+            "polyOuMono":       "Mono",
+            "status":           "Célibataire",
+            "couleurP":         "",
+            "expression":       "",
+            "aime":[
+                                "",
+                                ""
+            ],
+            "aimePas":[
+                                "",
+                                ""
+            ],
+            "caractere":[
+                                "",
+                                "",
+                                ""
+
+            ],
+            "ecrit":            "Oui",
+            "verbal":           "Oui",
+            "langue":[
+                                "Français",
+                                "Anglais"
+
+            ],
+            "magie":            "Non",
+            "typeM":            "Inapplicable",
+            "postoris":         "Inapplicable",
+            "vol":              "Non",
+            "typeV":            "Inapplicable",
+            "pierre":           "Aucune",
+            "particularite":    "Non",
+            "handicap":         "Aucun",
+            "disponible":       "Oui",
+            "question":         "Oui",
+            "calEtTouch":       "Oui",
+            "demandeSurnom":    "Oui"
+            },
+            {
+                "prenom":       "Lovely",
+            "nom":              "",
+            "surnom":[
+                "",
+                ""
+                ],
+            "genre":            "",
+            "pronom":[
+                                "",
+                                ""
+            ],
+            "age":              "",
+            "ageHum":           "Inapplicable",
+            "anniversaire":[
+                {
+                    "mois":     "",
+                    "jour":     ""
+                }
+
+            ],
+            "espece":           "Humain",
+            "orientation":      "",
+            "polyOuMono":       "Mono",
+            "status":           "Célibataire",
+            "couleurP":         "",
+            "expression":       "",
+            "aime":[
+                                "",
+                                ""
+            ],
+            "aimePas":[
+                                "",
+                                ""
+            ],
+            "caractere":[
+                                "",
+                                "",
+                                ""
+
+            ],
+            "ecrit":            "Oui",
+            "verbal":           "Oui",
+            "langue":[
+                                "Français",
+                                "Anglais"
+
+            ],
+            "magie":            "Non",
+            "typeM":            "Inapplicable",
+            "postoris":         "Inapplicable",
+            "vol":              "Non",
+            "typeV":            "Inapplicable",
+            "pierre":           "Aucune",
+            "particularite":    "Non",
+            "handicap":         "Aucun",
+            "disponible":       "Oui",
+            "question":         "Oui",
+            "calEtTouch":       "Oui",
+            "demandeSurnom":    "Oui"
+            },
+            {
+                "prenom":       "Loïk",
+            "nom":              "",
+            "surnom":[
+                "",
+                ""
+                ],
+            "genre":            "",
+            "pronom":[
+                                "",
+                                ""
+            ],
+            "age":              "",
+            "ageHum":           "Inapplicable",
+            "anniversaire":[
+                {
+                    "mois":     "",
+                    "jour":     ""
+                }
+
+            ],
+            "espece":           "Humain",
+            "orientation":      "",
+            "polyOuMono":       "Mono",
+            "status":           "Célibataire",
+            "couleurP":         "",
+            "expression":       "",
+            "aime":[
+                                "",
+                                ""
+            ],
+            "aimePas":[
+                                "",
+                                ""
+            ],
+            "caractere":[
+                                "",
+                                "",
+                                ""
+
+            ],
+            "ecrit":            "Oui",
+            "verbal":           "Oui",
+            "langue":[
+                                "Français",
+                                "Anglais"
+
+            ],
+            "magie":            "Non",
+            "typeM":            "Inapplicable",
+            "postoris":         "Inapplicable",
+            "vol":              "Non",
+            "typeV":            "Inapplicable",
+            "pierre":           "Aucune",
+            "particularite":    "Non",
+            "handicap":         "Aucun",
+            "disponible":       "Oui",
+            "question":         "Oui",
+            "calEtTouch":       "Oui",
+            "demandeSurnom":    "Oui"
+            },
+            {
+                "prenom":       "Luc",
+            "nom":              "",
+            "surnom":[
+                "",
+                ""
+                ],
+            "genre":            "",
+            "pronom":[
+                                "",
+                                ""
+            ],
+            "age":              "",
+            "ageHum":           "Inapplicable",
+            "anniversaire":[
+                {
+                    "mois":     "",
+                    "jour":     ""
+                }
+
+            ],
+            "espece":           "Humain",
+            "orientation":      "",
+            "polyOuMono":       "Mono",
+            "status":           "Célibataire",
+            "couleurP":         "",
+            "expression":       "",
+            "aime":[
+                                "",
+                                ""
+            ],
+            "aimePas":[
+                                "",
+                                ""
+            ],
+            "caractere":[
+                                "",
+                                "",
+                                ""
+
+            ],
+            "ecrit":            "Oui",
+            "verbal":           "Oui",
+            "langue":[
+                                "Français",
+                                "Anglais"
+
+            ],
+            "magie":            "Non",
+            "typeM":            "Inapplicable",
+            "postoris":         "Inapplicable",
+            "vol":              "Non",
+            "typeV":            "Inapplicable",
+            "pierre":           "Aucune",
+            "particularite":    "Non",
+            "handicap":         "Aucun",
+            "disponible":       "Oui",
+            "question":         "Oui",
+            "calEtTouch":       "Oui",
+            "demandeSurnom":    "Oui"
+            },
+            {
+                "prenom":       "Luca",
+            "nom":              "",
+            "surnom":[
+                "",
+                ""
+                ],
+            "genre":            "",
+            "pronom":[
+                                "",
+                                ""
+            ],
+            "age":              "",
+            "ageHum":           "Inapplicable",
+            "anniversaire":[
+                {
+                    "mois":     "",
+                    "jour":     ""
+                }
+
+            ],
+            "espece":           "Humain",
+            "orientation":      "",
+            "polyOuMono":       "Mono",
+            "status":           "Célibataire",
+            "couleurP":         "",
+            "expression":       "",
+            "aime":[
+                                "",
+                                ""
+            ],
+            "aimePas":[
+                                "",
+                                ""
+            ],
+            "caractere":[
+                                "",
+                                "",
+                                ""
+
+            ],
+            "ecrit":            "Oui",
+            "verbal":           "Oui",
+            "langue":[
+                                "Français",
+                                "Anglais"
+
+            ],
+            "magie":            "Non",
+            "typeM":            "Inapplicable",
+            "postoris":         "Inapplicable",
+            "vol":              "Non",
+            "typeV":            "Inapplicable",
+            "pierre":           "Aucune",
+            "particularite":    "Non",
+            "handicap":         "Aucun",
+            "disponible":       "Oui",
+            "question":         "Oui",
+            "calEtTouch":       "Oui",
+            "demandeSurnom":    "Oui"
+            },
+            {
+                "prenom":       "Lucas",
+            "nom":              "",
+            "surnom":[
+                "",
+                ""
+                ],
+            "genre":            "",
+            "pronom":[
+                                "",
+                                ""
+            ],
+            "age":              "",
+            "ageHum":           "Inapplicable",
+            "anniversaire":[
+                {
+                    "mois":     "",
+                    "jour":     ""
+                }
+
+            ],
+            "espece":           "Humain",
+            "orientation":      "",
+            "polyOuMono":       "Mono",
+            "status":           "Célibataire",
+            "couleurP":         "",
+            "expression":       "",
+            "aime":[
+                                "",
+                                ""
+            ],
+            "aimePas":[
+                                "",
+                                ""
+            ],
+            "caractere":[
+                                "",
+                                "",
+                                ""
+
+            ],
+            "ecrit":            "Oui",
+            "verbal":           "Oui",
+            "langue":[
+                                "Français",
+                                "Anglais"
+
+            ],
+            "magie":            "Non",
+            "typeM":            "Inapplicable",
+            "postoris":         "Inapplicable",
+            "vol":              "Non",
+            "typeV":            "Inapplicable",
+            "pierre":           "Aucune",
+            "particularite":    "Non",
+            "handicap":         "Aucun",
+            "disponible":       "Oui",
+            "question":         "Oui",
+            "calEtTouch":       "Oui",
+            "demandeSurnom":    "Oui"
+            },
+            {
+                "prenom":       "Lucifer",
+            "nom":              "",
+            "surnom":[
+                "",
+                ""
+                ],
+            "genre":            "",
+            "pronom":[
+                                "",
+                                ""
+            ],
+            "age":              "",
+            "ageHum":           "Inapplicable",
+            "anniversaire":[
+                {
+                    "mois":     "",
+                    "jour":     ""
+                }
+
+            ],
+            "espece":           "Humain",
+            "orientation":      "",
+            "polyOuMono":       "Mono",
+            "status":           "Célibataire",
+            "couleurP":         "",
+            "expression":       "",
+            "aime":[
+                                "",
+                                ""
+            ],
+            "aimePas":[
+                                "",
+                                ""
+            ],
+            "caractere":[
+                                "",
+                                "",
+                                ""
+
+            ],
+            "ecrit":            "Oui",
+            "verbal":           "Oui",
+            "langue":[
+                                "Français",
+                                "Anglais"
+
+            ],
+            "magie":            "Non",
+            "typeM":            "Inapplicable",
+            "postoris":         "Inapplicable",
+            "vol":              "Non",
+            "typeV":            "Inapplicable",
+            "pierre":           "Aucune",
+            "particularite":    "Non",
+            "handicap":         "Aucun",
+            "disponible":       "Oui",
+            "question":         "Oui",
+            "calEtTouch":       "Oui",
+            "demandeSurnom":    "Oui"
+            },
+            {
+                "prenom":       "Lucille",
+            "nom":              "",
+            "surnom":[
+                "",
+                ""
+                ],
+            "genre":            "",
+            "pronom":[
+                                "",
+                                ""
+            ],
+            "age":              "",
+            "ageHum":           "Inapplicable",
+            "anniversaire":[
+                {
+                    "mois":     "",
+                    "jour":     ""
+                }
+
+            ],
+            "espece":           "Humain",
+            "orientation":      "",
+            "polyOuMono":       "Mono",
+            "status":           "Célibataire",
+            "couleurP":         "",
+            "expression":       "",
+            "aime":[
+                                "",
+                                ""
+            ],
+            "aimePas":[
+                                "",
+                                ""
+            ],
+            "caractere":[
+                                "",
+                                "",
+                                ""
+
+            ],
+            "ecrit":            "Oui",
+            "verbal":           "Oui",
+            "langue":[
+                                "Français",
+                                "Anglais"
+
+            ],
+            "magie":            "Non",
+            "typeM":            "Inapplicable",
+            "postoris":         "Inapplicable",
+            "vol":              "Non",
+            "typeV":            "Inapplicable",
+            "pierre":           "Aucune",
+            "particularite":    "Non",
+            "handicap":         "Aucun",
+            "disponible":       "Oui",
+            "question":         "Oui",
+            "calEtTouch":       "Oui",
+            "demandeSurnom":    "Oui"
+            },
+            {
+                "prenom":       "Luciole",
+            "nom":              "",
+            "surnom":[
+                "",
+                ""
+                ],
+            "genre":            "",
+            "pronom":[
+                                "",
+                                ""
+            ],
+            "age":              "",
+            "ageHum":           "Inapplicable",
+            "anniversaire":[
+                {
+                    "mois":     "",
+                    "jour":     ""
+                }
+
+            ],
+            "espece":           "Humain",
+            "orientation":      "",
+            "polyOuMono":       "Mono",
+            "status":           "Célibataire",
+            "couleurP":         "",
+            "expression":       "",
+            "aime":[
+                                "",
+                                ""
+            ],
+            "aimePas":[
+                                "",
+                                ""
+            ],
+            "caractere":[
+                                "",
+                                "",
+                                ""
+
+            ],
+            "ecrit":            "Oui",
+            "verbal":           "Oui",
+            "langue":[
+                                "Français",
+                                "Anglais"
+
+            ],
+            "magie":            "Non",
+            "typeM":            "Inapplicable",
+            "postoris":         "Inapplicable",
+            "vol":              "Non",
+            "typeV":            "Inapplicable",
+            "pierre":           "Aucune",
+            "particularite":    "Non",
+            "handicap":         "Aucun",
+            "disponible":       "Oui",
+            "question":         "Oui",
+            "calEtTouch":       "Oui",
+            "demandeSurnom":    "Oui"
+            },
+            {
+                "prenom":       "Lucy",
+            "nom":              "",
+            "surnom":[
+                "",
+                ""
+                ],
+            "genre":            "",
+            "pronom":[
+                                "",
+                                ""
+            ],
+            "age":              "",
+            "ageHum":           "Inapplicable",
+            "anniversaire":[
+                {
+                    "mois":     "",
+                    "jour":     ""
+                }
+
+            ],
+            "espece":           "Humain",
+            "orientation":      "",
+            "polyOuMono":       "Mono",
+            "status":           "Célibataire",
+            "couleurP":         "",
+            "expression":       "",
+            "aime":[
+                                "",
+                                ""
+            ],
+            "aimePas":[
+                                "",
+                                ""
+            ],
+            "caractere":[
+                                "",
+                                "",
+                                ""
+
+            ],
+            "ecrit":            "Oui",
+            "verbal":           "Oui",
+            "langue":[
+                                "Français",
+                                "Anglais"
+
+            ],
+            "magie":            "Non",
+            "typeM":            "Inapplicable",
+            "postoris":         "Inapplicable",
+            "vol":              "Non",
+            "typeV":            "Inapplicable",
+            "pierre":           "Aucune",
+            "particularite":    "Non",
+            "handicap":         "Aucun",
+            "disponible":       "Oui",
+            "question":         "Oui",
+            "calEtTouch":       "Oui",
+            "demandeSurnom":    "Oui"
+            },
+            {
+                "prenom":       "Luka",
+            "nom":              "",
+            "surnom":[
+                "",
+                ""
+                ],
+            "genre":            "",
+            "pronom":[
+                                "",
+                                ""
+            ],
+            "age":              "",
+            "ageHum":           "Inapplicable",
+            "anniversaire":[
+                {
+                    "mois":     "",
+                    "jour":     ""
+                }
+
+            ],
+            "espece":           "Humain",
+            "orientation":      "",
+            "polyOuMono":       "Mono",
+            "status":           "Célibataire",
+            "couleurP":         "",
+            "expression":       "",
+            "aime":[
+                                "",
+                                ""
+            ],
+            "aimePas":[
+                                "",
+                                ""
+            ],
+            "caractere":[
+                                "",
+                                "",
+                                ""
+
+            ],
+            "ecrit":            "Oui",
+            "verbal":           "Oui",
+            "langue":[
+                                "Français",
+                                "Anglais"
+
+            ],
+            "magie":            "Non",
+            "typeM":            "Inapplicable",
+            "postoris":         "Inapplicable",
+            "vol":              "Non",
+            "typeV":            "Inapplicable",
+            "pierre":           "Aucune",
+            "particularite":    "Non",
+            "handicap":         "Aucun",
+            "disponible":       "Oui",
+            "question":         "Oui",
+            "calEtTouch":       "Oui",
+            "demandeSurnom":    "Oui"
+            },
+            {
+                "prenom":       "Lumi",
+            "nom":              "",
+            "surnom":[
+                "",
+                ""
+                ],
+            "genre":            "",
+            "pronom":[
+                                "",
+                                ""
+            ],
+            "age":              "",
+            "ageHum":           "Inapplicable",
+            "anniversaire":[
+                {
+                    "mois":     "",
+                    "jour":     ""
+                }
+
+            ],
+            "espece":           "Humain",
+            "orientation":      "",
+            "polyOuMono":       "Mono",
+            "status":           "Célibataire",
+            "couleurP":         "",
+            "expression":       "",
+            "aime":[
+                                "",
+                                ""
+            ],
+            "aimePas":[
+                                "",
+                                ""
+            ],
+            "caractere":[
+                                "",
+                                "",
+                                ""
+
+            ],
+            "ecrit":            "Oui",
+            "verbal":           "Oui",
+            "langue":[
+                                "Français",
+                                "Anglais"
+
+            ],
+            "magie":            "Non",
+            "typeM":            "Inapplicable",
+            "postoris":         "Inapplicable",
+            "vol":              "Non",
+            "typeV":            "Inapplicable",
+            "pierre":           "Aucune",
+            "particularite":    "Non",
+            "handicap":         "Aucun",
+            "disponible":       "Oui",
+            "question":         "Oui",
+            "calEtTouch":       "Oui",
+            "demandeSurnom":    "Oui"
+            },
+            {
+                "prenom":       "Léoni",
+            "nom":              "",
+            "surnom":[
+                "",
+                ""
+                ],
+            "genre":            "",
+            "pronom":[
+                                "",
+                                ""
+            ],
+            "age":              "",
+            "ageHum":           "Inapplicable",
+            "anniversaire":[
+                {
+                    "mois":     "",
+                    "jour":     ""
+                }
+
+            ],
+            "espece":           "Humain",
+            "orientation":      "",
+            "polyOuMono":       "Mono",
+            "status":           "Célibataire",
+            "couleurP":         "",
+            "expression":       "",
+            "aime":[
+                                "",
+                                ""
+            ],
+            "aimePas":[
+                                "",
+                                ""
+            ],
+            "caractere":[
+                                "",
+                                "",
+                                ""
+
+            ],
+            "ecrit":            "Oui",
+            "verbal":           "Oui",
+            "langue":[
+                                "Français",
+                                "Anglais"
+
+            ],
+            "magie":            "Non",
+            "typeM":            "Inapplicable",
+            "postoris":         "Inapplicable",
+            "vol":              "Non",
+            "typeV":            "Inapplicable",
+            "pierre":           "Aucune",
+            "particularite":    "Non",
+            "handicap":         "Aucun",
+            "disponible":       "Oui",
+            "question":         "Oui",
+            "calEtTouch":       "Oui",
+            "demandeSurnom":    "Oui"
+            },
+            {
+                "prenom":       "Léonie",
+            "nom":              "",
+            "surnom":[
+                "",
+                ""
+                ],
+            "genre":            "",
+            "pronom":[
+                                "",
+                                ""
+            ],
+            "age":              "",
+            "ageHum":           "Inapplicable",
+            "anniversaire":[
+                {
+                    "mois":     "",
+                    "jour":     ""
+                }
+
+            ],
+            "espece":           "Humain",
+            "orientation":      "",
+            "polyOuMono":       "Mono",
+            "status":           "Célibataire",
+            "couleurP":         "",
+            "expression":       "",
+            "aime":[
+                                "",
+                                ""
+            ],
+            "aimePas":[
+                                "",
+                                ""
+            ],
+            "caractere":[
+                                "",
+                                "",
+                                ""
+
+            ],
+            "ecrit":            "Oui",
+            "verbal":           "Oui",
+            "langue":[
+                                "Français",
+                                "Anglais"
+
+            ],
+            "magie":            "Non",
+            "typeM":            "Inapplicable",
+            "postoris":         "Inapplicable",
+            "vol":              "Non",
+            "typeV":            "Inapplicable",
+            "pierre":           "Aucune",
+            "particularite":    "Non",
+            "handicap":         "Aucun",
+            "disponible":       "Oui",
+            "question":         "Oui",
+            "calEtTouch":       "Oui",
+            "demandeSurnom":    "Oui"
+            },
+            {
+                "prenom":       "Lö",
+            "nom":              "",
+            "surnom":[
+                "",
+                ""
+                ],
+            "genre":            "",
+            "pronom":[
+                                "",
+                                ""
+            ],
+            "age":              "",
+            "ageHum":           "Inapplicable",
+            "anniversaire":[
+                {
+                    "mois":     "",
+                    "jour":     ""
+                }
+
+            ],
+            "espece":           "Humain",
+            "orientation":      "",
+            "polyOuMono":       "Mono",
+            "status":           "Célibataire",
+            "couleurP":         "",
+            "expression":       "",
+            "aime":[
+                                "",
+                                ""
+            ],
+            "aimePas":[
+                                "",
+                                ""
+            ],
+            "caractere":[
+                                "",
+                                "",
+                                ""
+
+            ],
+            "ecrit":            "Oui",
+            "verbal":           "Oui",
+            "langue":[
+                                "Français",
+                                "Anglais"
+
+            ],
+            "magie":            "Non",
+            "typeM":            "Inapplicable",
+            "postoris":         "Inapplicable",
+            "vol":              "Non",
+            "typeV":            "Inapplicable",
+            "pierre":           "Aucune",
+            "particularite":    "Non",
+            "handicap":         "Aucun",
+            "disponible":       "Oui",
+            "question":         "Oui",
+            "calEtTouch":       "Oui",
+            "demandeSurnom":    "Oui"
+            }
         ],
         "M":[
 
